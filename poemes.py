@@ -37,12 +37,12 @@ for url in urls:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     
-    poem_container = soup.find(id='mw-content-text')
+    poeme = soup.find(id='mw-content-text')
 
-    if poem_container:
-        poem_text = poem_container.get_text(strip=True)
+    if poeme:
+        poem_text = poeme.get_text(strip=True)
         
         print(poem_text)
         print("_" * 30 + "\n")  
     else:
-        print("Poème non trouvé pour l'URL:", url)
+        print("erreurs:", url)
