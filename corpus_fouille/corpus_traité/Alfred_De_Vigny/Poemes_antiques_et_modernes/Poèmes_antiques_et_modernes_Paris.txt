@@ -1,5 +1,5 @@
 « Prends ma main, Voyageur, et montons sur la tour
-[2]
+
 . —
 Regarde tout en bas, et regarde à l’entour.
 Regarde jusqu’au bout de l’horizon, regarde
@@ -13,7 +13,7 @@ Et règne, du zénith, sur un monde mouvant
 Comme l’éclair, l’oiseau, le nuage et le vent.
 Que vois-tu dans la nuit, à nos pieds, dans l’espace.
 Et partout où mon doigt tourne, passe et repasse
-[3]
+
 ?
 — « Je vois un cercle noir, si large et si profond
 » Que je n’en aperçois ni le bout ni le fond.
@@ -38,7 +38,7 @@ Et partout où mon doigt tourne, passe et repasse
 » D’obélisques, de ponts, de portes et d’arcades,
 » Tout fourmille et grandit, se cramponne en montant,
 » Se courbe, se replie, ou se creuse ou s’étend
-[4]
+
 .
 » — Dans un brouillard de feu je crois voir ce grand rêve.
 » La tour où nous voilà dans le cercle s’élève.
@@ -46,7 +46,7 @@ Et partout où mon doigt tourne, passe et repasse
 » Que Dieu même a posé le centre du compas ?
 » Le vertige m’enivre, et sur mes yeux il pèse.
 » Vois-je une Roue ardente, ou bien une Fournaise
-[5]
+
 ? »
 — Oui, c’est bien une Roue ; et c’est la main de Dieu
 Qui tient et fait mouvoir son invisible essieu.
@@ -63,7 +63,7 @@ Paris, l’axe immortel, Paris, l’axe du monde,
 Puise ses mouvements dans sa vigueur profonde,
 Les communique à tous, les imprime à chacun,
 Les impose de force, et n’en reçoit aucun
-[6]
+
 .
 Il se meut : tout s’ébranle, et tournoie et circule ;
 Le cœur du ressort bat, et pousse la bascule ;
@@ -78,7 +78,7 @@ Dans le bruit du travail demeura taciturne,
 Et brisa, par orgueil, sa chaîne et son ressort,
 
 Comme un bras que l’on coupe, il fut frappé de mort
-[7]
+
 .
 Car Paris l’éternel de leurs efforts se joue,
 Et le moyeu divin tournerait sans la Roue ;
@@ -86,7 +86,7 @@ Quand même tout voudrait revenir sur ses pas,
 Seul il irait : lui seul ne s’arrêterait pas,
 Et tu verrais la force et l’union ravie
 Aux rayons qui partaient de son centre de vie
-[8]
+
 .
 — C’est donc bien, Voyageur, une Roue en effet.
 Le vertige parfois est prophétique. — Il fait
@@ -97,7 +97,7 @@ C’est un feu sous un dôme obscur, large et sans fond ;
 Là, dans les nuits d’hiver et d’été, quand les heures
 Font du bruit en sonnant sur le toit des demeures,
 Parce que l’homme y dort, là veillent des Esprits
-[9]
+
 ,
 Grands ouvriers d’une œuvre et sans nom et sans prix.
 La nuit, leur lampe brûle, et, le jour, elle fume ;
@@ -115,12 +115,12 @@ Et dont l’humanité, demandant son décret,
 Tous les mille ans rejette et cherche le secret.
 Chacun d’eux pousse un cri d’amour vers une idée.
 L’un
-[10]
+
 soutient en pleurant la croix dépossédée
-[11]
+
 ,
 S’assied près du sépulcre et seul, comme un banni
-[12]
+
 ,
 Il se frappe en disant :
 Lamma Sabacthani ;
@@ -138,15 +138,15 @@ Le cadavre adoré de ses clous immortels
 Ne laisse plus tomber de sang pour ses autels ;
 — Rien. Il n’ouvrira pas son oreille endormie
 Aux lamentations du nouveau Jérémie
-[13]
+
 ,
 Et le laissera seul, mais d’une habile main,
 Retremper la tiare en l’alliage humain.
 — Liberté ! crie un autre
-[14]
+
 , et soudain la tristesse
 Comme un taureau le tue aux pieds de sa déesse
-[15]
+
 .
 
 Parce qu’ayant en vain quarante ans combattu,
@@ -154,7 +154,7 @@ Il ne peut rien construire où tout est abattu.
 N’importe ! Autour de lui des travailleurs sans nombre,
 Aveugles inquiets, cherchent à travers l’ombre
 Je ne sais quels chemins qu’ils ne connaissent pas
-[16]
+
 ,
 Réglant et mesurant, sans règle et sans compas,
 L’un sur l’autre semant des arbres sans racines,
@@ -162,15 +162,15 @@ Et mettant au hasard l’ordre dans les ruines.
 Et, comme il est écrit que chacun porte en soi
 Le mal qui le tuera, regarde en bas, et voi.
 Derrière eux s’est groupée une famille forte
-[17]
-[18]
+
+
 Qui les ronge et du pied pile leur œuvre morte,
 Écrase les débris qu’a faits la Liberté,
 Y roule le niveau qu’on nomme Égalité,
 Et veut les mettre en cendre, afin que pour sa tête
 L’homme n’ait d’autre abri que celui qu’elle apprête :
 Et c’est un Temple. Un Temple immense, universel
-[19]
+
 ,
 Où l’homme n’offrira ni l’encens, ni le sel,
 Ni le sang, ni le pain, ni le vin, ni l’hostie,
@@ -182,10 +182,10 @@ L’union est son but et le travail son rôle,
 Et selon celui-là qui parle après Jésus,
 Tous seront appelés et tous seront élus.
 — Ainsi tout est osé ! Tu vois, pas de statue
-[20]
+
 
 D’homme, de roi, de Dieu, qui ne soit abattue
-[21]
+
 ,
 Mutilée à la pierre et rayée au couteau,
 Démembrée à la hache et broyée au marteau !
@@ -199,13 +199,13 @@ Cela reluit, cela flambe et glisse dans l’air,
 Éclate en pluie ardente ou serpente en éclair.
 Œuvre, ouvriers, tout brûle ; au feu tout se féconde :
 Salamandres partout
-[22]
+
 ! — Enfer ! Éden du monde !
 Paris ! principe et fin ! Paris ! ombre et flambeau
-[23]
+
 !
 — Je ne sais si c’est mal, tout cela ; mais c’est beau
-[24]
+
 !
 Mais c’est grand ! mais on sent jusqu’au fond de son âme
 
@@ -222,14 +222,14 @@ Et, dans des flots d’amour et d’union, enfin
 Guidera la famille humaine vers sa fin ;
 Mais que peut-être aussi, brûlant, pareil au glaive
 Dont le feu dessécha les pleurs dans les yeux d’Eve
-[25]
+
 ,
 Il ira labourant le globe comme un champ,
 Et semant la douleur du levant au couchant ;
 Rasant l’œuvre de l’homme et des temps comme l’herbe
 Dont un vaste incendie emporte chaque gerbe,
 En laissant le désert, qui suit son large cours
-[26]
+
 Comme un géant vainqueur, s’étendre pour toujours.
 Peut-être que, partout où se verra sa flamme,
 Dans tout corps s’éteindra le cœur, dans tout cœur l’âme,
@@ -257,7 +257,7 @@ Je crus sentir mes pieds tourner avec la roue,
 Et le feu du brasier qui montait vers les cieux
 M’éblouit tellement que je fermai les yeux.
 — « Ah ! dit le Voyageur, la hauteur où nous sommes
-[27]
+
 » De corps et d’âme est trop pour la force des hommes.
 » La tête a ses faux pas comme le pied les siens ;
 » Vous m’avez soutenu, c’est moi qui vous soutiens,
@@ -275,7 +275,7 @@ Lorsqu’une meule énorme,
 ont-ils dit… — Il me semble
 » La voir. — …
 apparaîtra sur la cité…
-[28]
+
 — Je tremble
 » Que ce ne soit Paris. — …
 dont les enfants auront
@@ -283,16 +283,16 @@ dont les enfants auront
 Effacé Jésus-Christ du cœur comme du front…
 » Vous l’avez fait. — …
 alors que la ville, enivrée
-[29]
+
 »
 D’elle-même, aux plaisirs du sang sera livrée…
-[30]
+
 —
 » Qu’en pensez-vous ? — …
 alors l’Ange la rayera
 »
 Du monde, et le rocher du ciel l’écrasera
-[31]
+
 . »
 
 Je souris tristement : — « Il se peut bien, lui dis-je,
@@ -302,9 +302,9 @@ Qu’ailleurs, pour l’avenir, il fût d’autres trésors,
 Et je n’en connais pas. Si la force divine
 Est en ceux dont l’esprit sent, prévoit et devine,
 Elle est ici. — Le Ciel la révère. — Et sur nous
-[32]
+
 L’ange exterminateur frapperait à genoux
-[33]
+
 ,
 Et sa main, à la fois flamboyante et timide,
 Tremblerait de commettre un second déicide.
@@ -315,7 +315,7 @@ D’où l’esprit voit un rêve et le corps un abîme.
 — Je ne sais d’assurés, dans le chaos du sort.
 Que deux points seulement,
 la Souffrance et la Mort
-[34]
+
 .
 Tous les hommes y vont avec toutes les villes.
 Mais les cendres, je crois, ne sont jamais stériles.

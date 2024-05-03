@@ -1,5 +1,5 @@
 La harpe tremble encore et la flûte soupire
-[1]
+
 ,
 Car la Walse bondit dans son sphérique empire ;
 Des couples passagers éblouissent les yeux,
@@ -9,29 +9,29 @@ Aux reflets d’une glace admirent leur parure,
 Repartent ; puis, troublés par leur groupe riant.
 Dans leurs tours moins adroits se heurtent en criant.
 La danseuse, enivrée aux transports de la fête
-[2]
+
 ,
 Sème et foule en passant les bouquets de sa tête,
 Au bras qui la soutient se livre, et, pâlissant
-[3]
+
 ,
 
 Tourne, les yeux baissés sur un sein frémissant
-[4]
+
 .
 Courez, jeunes beautés, formez la double danse.
 ﻿
 Entendez-vous l’archet du bal joyeux
-[5]
+
 ,
 Jeunes beautés ? Bientôt la légère cadence
 Toutes va, tout à coup, vous mêler à mes yeux
-[6]
+
 .
 Dansez et couronnez de fleurs vos fronts d’albâtre ;
 Liez au blanc muguet l’hyacinthe bleuâtre,
 Et que vos pas moelleux, délices d’un amant
-[7]
+
 .
 Sur le chêne poli glissent légèrement ;
 Dansez, car dès demain vos mères exigeantes
@@ -47,22 +47,22 @@ Ils chercheront en vain, sur la feuille indocile,
 De ses simples discours le sens clair et facile ;
 Loin du papier noirci, votre esprit égare.
 Partant, seul et léger, vers le Bal adoré
-[8]
+
 .
 Laissera de vos yeux l’indécise prunelle
 Recommencer vingt fois une page éternelle.
 Prolongez, s’il se peut, oh ! prolongez la nuit
-[9]
+
 .
 Qui d’un pas diligent plus que vos pas s’enfuit !
 Le signal est donné, l’archet frémit encore :
 ﻿
 Élancez-vous, liez ces pas nouveaux
 Que l’Anglais inventa, nœuds chers à Terpsichore
-[10]
+
 ,
 Qui d’une molle chaîne imitent les anneaux
-[11]
+
 .
 Dansez, un soir encore usez de votre vie :
 L’étincelante nuit d’un long jour est suivie ;
@@ -70,7 +70,7 @@ L’étincelante nuit d’un long jour est suivie ;
 Succède, et les dégoûts aux doux propos du bal.
 Ah ! reculez le jour où, surveillantes mères.
 Vous saurez du berceau les angoisses amères
-[12]
+
 :
 
 Car, dès que de l’enfant le cri s’est élevé.
@@ -104,10 +104,10 @@ Quelles seront alors vos tardives alarmes ?
 Un teint, déjà flétri, pâlira sous les larmes,
 
 Les larmes à présent, doux trésor des amours
-[13]
+
 ,
 Les larmes, contre l’âge inutile secours
-[14]
+
 :
 Car les ans maladifs, avec un doigt de glace.
 Des chagrins dans vos cœurs auront marqué la place,
@@ -117,8 +117,8 @@ Et dans les blanches mains les mains entrelacées.
 Et les regards de feu, les guirlandes froissées.
 Et le rire éclatant, cri des joyeux loisirs.
 Et que la salle au loin tremble de vos plaisirs
-[15]
-[16]
+
+
 .
 
 Mais dans les airs émus, la musique a cessé :

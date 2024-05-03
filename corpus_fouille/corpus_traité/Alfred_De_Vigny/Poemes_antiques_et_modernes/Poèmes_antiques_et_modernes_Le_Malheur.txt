@@ -27,7 +27,7 @@ Moi-même, crédule à ma joie.
 J’enivre mon cœur, je me noie
 Aux torrents d’un riant orgueil ;
 Mais le Malheur devant ma face
-[2]
+
 À passé : le rire s’efface,
 Et mon front a repris son deuil.
 En vain je redemande aux fêtes
@@ -41,13 +41,13 @@ Il tache le sol de ses pleurs.
 Et de mes yeux trompant l’attente,
 Passe sa tête dégoûtante
 Parmi des fronts ornés de fleurs
-[3]
+
 .
 Il me parle dans le silence,
 Et mes nuits entendent sa voix ;
 Dans les arbres il se balance
 Quand je cherche la paix des bois
-[4]
+
 .
 Près de mon oreille il soupire ;
 On dirait qu’un mortel expire :
@@ -61,10 +61,10 @@ Mais, hélas ! elle m’est cachée,
 Sa fleur au calice vermeil.
 Pour toujours elle m’est ravie,
 La douce absence de la vie
-[5]
+
 ;
 Ce bain qui rafraîchit les jours
-[6]
+
 ,
 Cette mort de l’âme affligée,
 Chaque nuit à tous partagée,
@@ -74,7 +74,7 @@ Brûle mes yeux toujours ouverts,
 
 Viens, ô Gloire ! ai-je dit ; réveille
 Ma sombre vie au bruit des vers
-[7]
+
 .
 Fais qu’au moins mon pied périssable
 Laisse une empreinte sur le sable.
@@ -82,10 +82,10 @@ La Gloire a dit : « Fils de douleur,
 » Où veux-tu que je te conduise ?
 » Tremble ; si je t’immortalise,
 » J’immortalise le Malheur
-[8]
+
 . »
 Malheur ! oh ! quel jour favorable
-[9]
+
 De ta rage sera vainqueur ?
 Quelle main forte et secourable
 Pourra t’arracher de mon cœur,

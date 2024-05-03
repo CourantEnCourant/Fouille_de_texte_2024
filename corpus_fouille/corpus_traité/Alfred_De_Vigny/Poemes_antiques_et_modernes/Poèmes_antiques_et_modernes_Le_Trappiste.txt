@@ -11,17 +11,17 @@ Et les monts inclinés, verdoyante ceinture
 Qu’en cercles inégaux enchaîna la nature.
 De leurs dômes en fleurs étalaient la beauté,
 Revêtus d’un manteau bleuâtre et velouté
-[2]
+
 .
 Mais aucun n’égalait, dans sa magnificence,
 Le Mont Serrât
-[3]
+
 , paré de toute sa puissance
-[4]
+
 :
 Quand des nuages blancs sur son dos arrondi
 Roulaient leurs flots chassés par le vent du midi
-[5]
+
 ,
 Les brisant de son front, comme un nageur habile,
 Le géant semblait fuir sous ce rideau mobile ;
@@ -41,29 +41,29 @@ Mais l’homme a des pensers bien plus grands que le monde.
 Quelquefois tout un peuple endormi dans ses maux
 S’éveille, et, saisissant le glaive des hameaux,
 Maudissant la révolte impure et tortueuse
-[6]
+
 .
 Élève tout à coup sa voix majestueuse :
 Il redemande à Dieu ses autels profanés,
 Il appelle à grands cris ses Rois emprisonnés
-[7]
+
 ;
 Comme un tigre, il arrache, il emporte sa chaîne ;
 Il s’élève, il grandit, il s’étend comme un chêne
-[8]
+
 ,
 Et de ses mille bras il couvre en liberté
 Les sillons paternels du sol qui l’a porté.
 Ainsi, terre indocile, à ton Roi seul constante,
 Vendée, où la chaumière est encore une tente,
 Ainsi de ton Bocage aux détours meurtriers
-[9]
+
 Sortirent en priant les paysans guerriers :
 Ainsi, se relevant, l’infatigable Espagne
 Fait sortir des héros du creux de la montagne.
 Sur des rochers, non loin de ces antres sacrés,
 Où Pelage appela les Goths désespérés
-[10]
+
 ,
 D’où sort toujours la gloire, et qui gardent encore,
 Hélas ! les os français mêlés à ceux du More,
@@ -79,7 +79,7 @@ Car la hache pesante, avec la flamme active,
 D’un chêne que cent ans n’ont pas su protéger
 Ont fait pour leur prière un autel passager.
 Là ce chef dont le nom sème au loin l’épouvante
-[11]
+
 Dépose devant Dieu son oraison fervente ;
 Triomphateur sans pompe, il va d’une humble voix
 Chanter le
@@ -93,15 +93,15 @@ Il est soldat aussi, mais plein d’austérité ;
 Son front est triste et pâle, et son œil intrépide :
 Son bras frappe et bénit, son langage est rapide,
 Il passe dans la foule et ne s’y mêle pas
-[12]
+
 ;
 Un pain noir et grossier compose ses repas ;
 Il parle, on obéit ; on tremble s’il commande.
 Et nul sur son destin ne tente une demande
-[13]
+
 .
 Le Trappiste est son nom : ce terrible inconnu
-[14]
+
 ,
 Sorti jadis du monde, au monde est revenu ;
 Car, soulevant l’oubli dont ces couvents funèbres
@@ -109,13 +109,13 @@ Car, soulevant l’oubli dont ces couvents funèbres
 Il reparut au jour, dans une main la croix,
 Dans l’autre, secouant, au nom des anciens Rois,
 Ce fouet
-[15]
+
 dont Jésus-Christ, de son bras pacifique.
 Du haut des longs degrés du Temple magnifique,
 Renversa les vendeurs qui souillaient le saint mur,
 
 Dans les débris épars de leur trafic impur
-[16]
+
 .
 Soit que la main de Dieu le couvre ou se retire,
 Le condamne à la gloire ou l’élève au martyre,
@@ -127,10 +127,10 @@ Tel un mort, évoqué par de magiques voix,
 Envoyé du sépulcre, apparaît pour les Rois,
 Marche, prédit, menace, et retourne à sa tombe,
 Dont la pierre éternelle en gémissant retombe
-[17]
+
 .
 Parmi ces montagnards, ces robustes bergers
-[18]
+
 .
 Aventuriers hardis, chasseurs aux pieds légers.
 Qui rangent sous sa loi leur troupe volontaire.
@@ -139,7 +139,7 @@ Dieu l’inspire et l’envoie, il le dit : c’est assez,
 Pourvu que leurs combats leur soient toujours laissés.
 
 Joyeux, ils voyaient donc, sanctifiant leur gloire
-[19]
+
 ,
 Ce prêtre offrir à Dieu leur première victoire.
 Pour lui, couvert de l’aube et de l’étole orné.
@@ -154,7 +154,7 @@ Montrant un fer brisé qui soutenait sa main.
 Qui défendit sa fuite et fraya son chemin.
 C’est un de ces guerriers dont la constante veille
 Fait qu’en ses palais d’or la royauté sommeille
-[20]
+
 .
 Il tombe ; mais il parle, et sa tremblante voix
 S’efforce à ce discours entrecoupé trois fois :
@@ -168,12 +168,12 @@ J’apporte sur vos monts de sanglantes nouvelles.
 Et le jeune martyr, sur un bras se levant,
 Tel qu’un gladiateur dont la paupière errante
 Cherche le sol qui tourne, et fuit sa main mourante
-[21]
+
 :
 
 « Nos combats sont finis, dit-il, en un seul jour ;
 Nos taureaux ont quitté le cirque, et sans retour
-[22]
+
 ,
 Puisque le spectateur à qui s’offrait la lutte
 N’a pas daigné lui-même applaudir à leur chute.
@@ -182,13 +182,13 @@ Partez, je vais mourir avant de les savoir.
 Mais, si vous rencontrez, non loin de ces montagnes,
 Des soldats qui vont vite à travers les campagnes,
 Qui portent sous leurs bras des fusils renversés
-[23]
+
 ,
 Et passent en silence et leurs fronts abaissés,
 Ne les engagez pas à cesser leur retraite ;
 Ils vous refuseraient en secouant la tête :
 Car ils ont tous besoin, mon père, ainsi que moi
-[24]
+
 ,
 De retremper leur âme aux sources de la foi.
 Nul ne sait s’il succombe ou fidèle ou parjure,
@@ -206,11 +206,11 @@ Brillant, mais dont le soir n’est pas venu pour tous,
 Au palais, dont le peuple envahissait les portes,
 En silence, à grands pas, marchaient nos trois cohortes :
 Quand le balcon royal à dos yeux vint s’offrir
-[25]
+
 ,
 
 Nous l’avons salué, car nous venions mourir
-[26]
+
 .
 Mais comme à notre voix il n’y paraît personne,
 Aux cris des révoltés, à leur tocsin qui sonne,
@@ -223,26 +223,26 @@ Fait presque de leur mort repentir nos mourants.
 Nous n’osons plus frapper, de peur qu’un plomb fidèle
 N’aille blesser le Roi dans la foule rebelle.
 Déjà, le fer levé, s’avancent ses amis
-[27]
+
 ,
 Par nos bourreaux sanglants à nous tuer admis.
 Nous recevons leurs coups longtemps avant d’y croire,
 Et notre étonnement nous ôte la victoire.
 En retirant vers vous nos rangs irrésolus,
 Nous combattions toujours, mais nous ne pleurions plus
-[28]
+
 . »
 
 Il se tut. Il régna, de montagne en montagne,
 Un bruit sourd qui semblait un soupir de l’Espagne.
 Le Trappiste incliné mit sa main sur ses yeux
-[29]
+
 .
 On ne sait s’il pleura ; car, tranquille et pieux,
 Levant son front creusé par les rides antiques,
 Sa voix grave apaisa les bataillons rustiques :
 Comme au vent du midi la neige au loin se fond
-[30]
+
 ,
 La rumeur s’éteignit dans un calme profond.
 La lune alors plus belle écartait un nuage,
@@ -251,12 +251,12 @@ Troublé sur ses sommets et dans sa profondeur,
 Le mont de tous ses bruits déployait la grandeur ;
 Aux mots entrecoupés du vainqueur catholique,
 Se mêlait d’un torrent la voix mélancolique
-[31]
+
 ,
 Le froissement léger des mélèzes touffus,
 D’un combat éloigné les coups longs et confus,
 Et des loups affamés les hurlements funèbres
-[32]
+
 ,
 Et le cri des vautours volant dans les ténèbres :
 « Frères, il faut mourir ; qu’importe le moment ?
@@ -276,7 +276,7 @@ Hommes toujours déçus, j’en appelle à vous tous :
 Interrogez vos cœurs, voyez autour de vous ;
 Rappelez vos liens, vos premières années,
 Et d’un juste coup d’œil sondez nos destinées
-[33]
+
 .
 Amis, frères, amants, qui vous a donc appris
 Qu’un dévoûment jamais dût recevoir son prix ?
@@ -285,7 +285,7 @@ Qui n’ont pu récolter qu’une moisson sanglante.
 Si la couche est trompeuse et le foyer pervers,
 Qu’avez-vous attendu des Rois de l’univers ?
 Ô faiblesse mortelle, ô misère des hommes
-[34]
+
 !
 Plaignons notre nature et le siècle où nous sommes
 Gémissons en secret sur les fronts couronnés ;
@@ -298,7 +298,7 @@ Car tout vient du Seigneur, et tout retourne à lui.
 Dieu seul est juste, enfants ; sans lui tout est mensonge,
 Sans lui le mourant dit : « La vertu n’est qu’un songe. »
 Nous allons le prier, et pour le Prince absent
-[35]
+
 ,
 Et pour tous les martyrs dont coule encor le sang.
 Je donne cette nuit à vos dernières larmes :

@@ -1,7 +1,7 @@
 Qu’elle était belle, ma Frégate,
 Lorsqu’elle voguait dans le vent
-[1]
-[2]
+
+
 !
 Elle avait, au soleil levant,
 Toutes les couleurs de l’agate ;
@@ -18,13 +18,13 @@ En cent jours du Havre à Surate
 Elle nous emporta souvent.
 — Quelle était belle, ma Frégate,
 Lorsqu’elle voguait dans le vent
-[3]
+
 !
 
 Brest
 vante son beau port et cette rade insigne
 Où peuvent manœuvrer trois cents vaisseaux de ligne
-[4]
+
 ;
 Boulogne
 , sa cité haute et double, et
@@ -33,16 +33,16 @@ Calais
 Sa citadelle assise en mer comme un palais ;
 Dieppe
 a son vieux château soutenu par la dune
-[5]
+
 ,
 Ses baigneuses cherchant la vague au clair de lune,
 Et ses deux monts en vain par la mer insultés
-[6]
+
 ;
 Cherbourg
 a ses fanaux de bien loin consultés,
 Et gronde en menaçant Guernsey la sentinelle
-[7]
+
 Debout près de Jersey, presque en France ainsi qu’elle.
 Lorient
 , dans sa rade au mouillage inégal,
@@ -59,13 +59,13 @@ devant lui ;
 Bordeaux
 , de ses longs quais parés de maisons neuves,
 Porte jusqu’à la mer ses vins sur deux grands fleuves
-[8]
+
 ;
 Toute ville à
 Marseille
 aurait droit d’envier
 Sa ceinture de fruits, d’orange et d’olivier
-[9]
+
 ;
 D’or et de fer
 Bayonne
@@ -73,7 +73,7 @@ en tout temps fut prodigue ;
 Du grand Cardinal-Duc
 La Rochelle
 a la digue
-[10]
+
 ;
 Tous nos ports ont leur gloire ou leur luxe à nommer ;
 Mais
@@ -81,7 +81,7 @@ Toulon
 a lancé la
 Sérieuse
 en mer
-[11]
+
 .
 
 Quand la belle
@@ -97,7 +97,7 @@ Avec ce long bruit qui tremble,
 Qui se prolonge et ressemble
 Au bruit des ailes qu’ensemble
 Ouvre une troupe d’oiseaux
-[12]
+
 .
 
 IV
@@ -105,7 +105,7 @@ Dès que l’ancre dégagée
 Revient par son câble à bord,
 La proue alors est changée,
 Selon l’aiguille et le Nord
-[13]
+
 .
 La
 Sérieuse
@@ -131,7 +131,7 @@ L’escadre n’est à sa suite
 Que lorsque, arrêtant sa fuite,
 
 Elle veut l’attendre enfin
-[14]
+
 :
 Mais, de bons marins pourvue,
 Aussitôt qu’elle est en vue,
@@ -169,7 +169,7 @@ L’Artémise
 ,
 Nous nous dîmes : C’est Venise
 Qui s’avance sur les eaux
-[15]
+
 .
 VIII
 Quel plaisir d’aller si vite,
@@ -207,7 +207,7 @@ Comme un vieux lion abaisse
 Sa longue crinière épaisse,
 Et, sans l’agiter, y laisse
 Se jouer le lionceau
-[16]
+
 ;
 Comme sur sa tête agile
 Une femme tient l’argile,
@@ -225,14 +225,14 @@ De son cœur on n’est pas maître,
 Moi, je suis un vrai marin ;
 Ma naissance est un mystère,
 Sans famille, et solitaire
-[17]
+
 ,
 Je ne connais pas la terre,
 Et la vois avec chagrin.
 XII
 Mon banc de quart est mon trône,
 J’y règne plus que les Rois
-[18]
+
 ;
 Sainte Barbe est ma patronne ;
 Mon sceptre est mon porte-voix ;
@@ -244,7 +244,7 @@ Sans que personne demande
 À quel bord je veux qu’il tende,
 Et pourquoi je lui commande
 D’être plus fort que les flots
-[19]
+
 .
 
 XIII
@@ -262,22 +262,22 @@ Elle parut indocile
 Aux ordres d’une autre voix.
 XIV
 On l’aurait crue animée
-[20]
+
 !
 Toute l’Égypte la prit,
 Si blanche et si bien formée,
 Pour un gracieux Esprit
-[21]
+
 Des Français compatriote,
 Lorsqu’en avant de la flotte.
 Dont elle était le pilote,
 
 Doublant une vieille tour
-[22]
-[23]
+
+
 ,
 Elle entra, sans avarie
-[24]
+
 ,
 Aux cris : Vive la patrie !
 Dans le port d’Alexandrie,
@@ -314,12 +314,12 @@ Ses cordages semblaient des filets d’araignée.
 Tant ils étaient légers.
 Nous étions tous marins. Plus de soldats timides
 Qui chancellent à bord ainsi que des enfants
-[25]
+
 ;
 Ils marchaient sur leur sol, prenant des Pyramides,
 ﻿
 Montant des éléphants
-[26]
+
 .
 Il faisait beau. — La mer, de sable environnée.
 Brillait comme un bassin d’argent entouré d’or ;
@@ -338,7 +338,7 @@ Je la pris, et la tins ferme sur l’horizon.
 — Une, deux, trois, — je vis treize et quatorze voiles ;
 ﻿
 Enfin, c’était Nelson
-[27]
+
 .
 Il courait contre nous en avant de la brise ;
 La Sérieuse à l’ancre, immobile, s’offrant,
@@ -405,7 +405,7 @@ Au pied du pavillon.
 J’aperçus des Anglais les figures livides,
 Faisant pour s’approcher un inutile effort
 Sur leurs vaisseaux flottants comme des tonneaux vides
-[28]
+
 ,
 ﻿
 Vaincus par notre mort.
@@ -416,7 +416,7 @@ Elle, comme voyant sa carrière finie,
 Gémit profondément.
 Je me sentis pleurer, et ce fut un prodige.
 Un mouvement honteux
-[29]
+
 ; mais bientôt l’étouffant :
 Nous nous sommes conduits comme il fallait, lui dis-je ;
 ﻿
@@ -426,7 +426,7 @@ Mon pavillon noyé se montrait en dessous ;
 Puis elle s’enfonça tournant comme une roue,
 ﻿
 Et la mer vint sur nous
-[30]
+
 .
 
 Hélas ! deux mousses d’Angleterre
@@ -443,5 +443,5 @@ Votre voix m’anime et me flatte,
 Aussi je vous dirai souvent :
 — « Qu’elle était belle, ma Frégate,
 Lorsqu’elle voguait dans le vent
-[31]
+
 ! »

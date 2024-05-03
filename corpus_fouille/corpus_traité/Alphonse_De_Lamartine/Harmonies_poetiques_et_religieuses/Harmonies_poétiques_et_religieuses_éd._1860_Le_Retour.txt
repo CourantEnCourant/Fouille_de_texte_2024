@@ -9,7 +9,7 @@ Que de liens brisés ! que d’amitiés éteintes !
 Que d’échos assoupis qui ne répondent plus !
 
 Moins de flots ont roulé sur les sables de Laisse
-[1]
+
 ,
 Moins de rides d’azur ont sillonné son sein,
 Et, des arbres vieillis qui couvraient ta jeunesse,
@@ -105,7 +105,7 @@ Aux rives de mon lac cet ami m’est-il né ?
 A-t-il respiré l’air de ma tiède vallée,
 Ou foulé sous ses pas l’herbe que j’ai foulée
 Au pied du Nivolay
-[2]
+
 , d’étoiles couronné ?
 
 De quel droit ose-t-il, étranger sur ces rives ?…

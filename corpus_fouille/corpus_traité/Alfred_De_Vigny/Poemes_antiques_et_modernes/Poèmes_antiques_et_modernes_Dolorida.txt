@@ -1,33 +1,33 @@
 Est-ce la Volupté qui, pour ses doux mystères,
 Furtive, a rallumé ces lampes solitaires
-[2]
+
 ?
 La gaze et le cristal sont leur pâle prison.
 Aux souffles purs d’un soir de l’ardente saison
-[3]
+
 
 S’ouvre sur le balcon la moresque fenêtre ;
 Une aurore imprévue à minuit semble naître
-[4]
+
 ,
 Quand la lune apparaît, quand ses gerbes d’argent
 Font pâlir les lueurs du feu rose et changeant ;
 Les deux clartés à l’œil offrent partout leurs pièges
-[5]
+
 .
 Caressent mollement le velours bleu des sièges,
 La soyeuse ottomane où le livre est encor
-[6]
+
 ,
 La pendule mobile entre deux vases d’or,
 La Madone d’argent, sous des roses cachée
-[7]
+
 .
 Et sur un lit d’azur une beauté couchée.
 Oh ! jamais dans Madrid un noble cavalier
-[8]
+
 Ne verra tant de grâce à plus d’art s’allier
-[9]
+
 ;
 Jamais pour plus d’attraits, lorsque la nuit commence.
 N’a frémi la guitare et langui la romance ;
@@ -38,45 +38,45 @@ On n’admira jamais plus belles mains d’albâtre
 
 Sous la mantille noire et ses paillettes d’or,
 Applaudissant, de loin, l’adroit toréador
-[10]
-[11]
+
+
 .
 Mais, ô vous ! qu’en secret nulle oeillade attentive
-[12]
+
 Dans ses rayons brillants ne chercha pour captive,
 Jeune foule d’amants, Espagnols à l’œil noir.
 Si sous la perle et l’or vous l’adoriez le soir,
 Qui de vous ne voudrait (dût la dague andalouse
 Le frapper au retour de sa pointe jalouse)
-[13]
+
 Prosterner ses baisers sur ces pieds découverts,
 
 Ce col, ce sein d’albâtre, à l’air nocturne ouverts.
 Et ces longs cheveux noirs tombant sur son épaule,
 Comme tombe à ses pieds le vêtement du saule ?
 Dolorida n’a plus que ce voile incertain
-[14]
-[15]
+
+
 ,
 Le premier que revêt le pudique matin
 Et le dernier rempart que, dans sa nuit folâtre
-[16]
+
 ,
 L’amour ose enlever d’une main idolâtre
-[17]
-[18]
+
+
 .
 Ses bras nus à sa tête offrent un mol appui
-[19]
+
 ,
 Mais ses yeux sont ouverts, et bien du temps a fui
 Depuis que, sur l’émail, dans ses douze demeures.
 Ils suivent ce compas qui tourne avec les heures
-[20]
-[21]
+
+
 .
 Que fait-il donc, celui que sa douleur attend
-[22]
+
 ?
 Sans doute il n’aime pas, celui qu’elle aime tant.
 
@@ -90,10 +90,10 @@ Car l’amour d’une femme est semblable à l’enfant
 Qui, las de ses fouets, les brise triomphant.
 Foule d’un pied volage une rose immobile,
 Et suit l’insecte ailé qui fuit sa main débile
-[23]
+
 .
 Pourquoi Dolorida seule en ce grand palais
-[24]
+
 ,
 Où l’on n’entend, ce soir, ni le pied des valets,
 Ni, dans la galerie et les corridors tristes.
@@ -101,14 +101,14 @@ Les enfantines voix des vives caméristes ?
 Trois heures cependant ont lentement sonné ;
 La voix du temps est triste au cœur abandonné ;
 Ses coups y réveillaient la douleur de l’absence
-[25]
+
 ,
 
 Et la lampe luttait ; sa flamme sans puissance
 Décroissait inégale, et semblait un mourant
 Qui sur la vie encor jette un regard errant.
 À ses yeux fatigués tout se montre plus sombre
-[26]
+
 .
 Le crucifix penché semble agiter son ombre :
 Un grand froid la saisit ; mais les fortes douleurs
@@ -127,7 +127,7 @@ Tombé sur ses genoux, il parle à demi-voix :
 « — Je viens te dire adieu ; je me meurs, tu le vois,
 Dolorida, je meurs ! une flamme inconnue.
 Errante, est de mon sang jusqu’au cœur parvenue
-[27]
+
 .
 Mes pieds sont froids et lourds, mon œil est obscurci ;
 Je suis tombé trois fois en revenant ici.
@@ -149,7 +149,7 @@ Quelque mot consolant, s’il ne peut être tendre.
 Des jours qui m’étaient dus je n’ai pas la moitié ;
 Laisse en aller mon âme en rêvant ta pitié !
 Hélas ! devant la mort montre un peu d’indulgence
-[28]
+
 !
 — La mort n’est que la mort et n’est pas la vengeance.
 — Ô Dieux ! si jeune encor ! tout son cœur endurci !
@@ -161,7 +161,7 @@ Que ton âme apaisée entende mes aveux.
 Je jure, et tu le vois, en expirant, ma bouche
 Jure devant ce Christ qui domine ta couche,
 Et si par leur faiblesse ils n’étaient pas liés
-[29]
+
 .
 Je lèverais mes bras jusqu’au sang de ses pieds ;
 Je jure que jamais mon amour égarée
@@ -170,12 +170,12 @@ N’oublia loin de toi ton image adorée ;
 L’infidélité même était pleine de toi,
 Je te voyais partout entre ma faute et moi.
 Et sur un autre cœur mon cœur rêvait tes charmes
-[30]
+
 Plus touchants par mon crime et plus beaux par tes larmes
-[31]
+
 .
 Séduit par ces plaisirs qui durent peu de temps
-[32]
+
 ,
 Je fus bien criminel ; mais, hélas ! j’ai vingt ans.
 — T’a-t-elle vu pâlir ce soir dans tes souffrances ?
@@ -188,7 +188,7 @@ J’ai cru d’abord mourir et n’avoir pas le temps
 D’appeler ton pardon sur mes derniers instants.
 
 Oh ! parle ; mon cœur fuit ; quitte ce dur langage
-[33]
+
 ;
 Qu’un regard… Mais quel est ce blanchâtre breuvage
 Que tu bois à longs traits et d’un air insensé ?

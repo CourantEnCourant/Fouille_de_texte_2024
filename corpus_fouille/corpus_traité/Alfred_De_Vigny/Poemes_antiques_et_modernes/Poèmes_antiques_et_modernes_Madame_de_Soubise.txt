@@ -35,7 +35,7 @@ Suisses, Piqueux, Page, Arbalétriers !
 Voici venir madame Marie-Anne ;
 Elle descend l’escalier de la tour,
 Jusqu’aux pavés baissez la pertuisane
-[2]
+
 ,
 Et que chacun la salue à son tour.
 IV
@@ -155,7 +155,7 @@ Cœur d’Amiral arraché dans la rue.
 Cœur gangrené du schisme de Calvin.
 On boit, on mange, on rit ; la foule accrue
 Se l’offre et dit : C’est le Pain et le Vin
-[3]
+
 .
 XII
 ﻿
@@ -183,7 +183,7 @@ Place ! je vois arriver deux enfants :
 Ne tuez pas encor, je le défends ;
 Tant qu’ils sont là, je les ai sous ma garde.
 Saint Paul a dit : Le temple est fait pour tous
-[4]
+
 ;
 
 Chacun son lot, le dedans me regarde ;
