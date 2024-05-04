@@ -2,3 +2,4 @@
 venv_fouille/
 scripts/.idea/
 scripts/.ipynb_checkpoints/
+scripts/__pycache__/
