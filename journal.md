@@ -15,4 +15,4 @@
 
 ## Weiqi ZHANG
 - I examined html code of different wikisource pages. The most efficient way is to find pages with '[@class="poem"]' attribute. Each element only contains then only the text of a single poem. Titles are NOT included.
-- This is why Clément Marot is not usable. And others are. 
+- An html element often doesn't contain one poem, but a part of it.
