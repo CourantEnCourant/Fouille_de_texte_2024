@@ -1,0 +1,139 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     corpus
+Instances:    450
+Attributes:   15290
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+l' <= 6
+|   âme <= 0
+|   |   vne <= 0
+|   |   |   doux <= 0
+|   |   |   |   loup <= 0
+|   |   |   |   |   chaque <= 0
+|   |   |   |   |   |   estre <= 0
+|   |   |   |   |   |   |   aime <= 0
+|   |   |   |   |   |   |   |   or <= 0
+|   |   |   |   |   |   |   |   |   partout <= 0
+|   |   |   |   |   |   |   |   |   |   lune <= 0
+|   |   |   |   |   |   |   |   |   |   |   ouvrage <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   animal <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   part <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   face <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   trouva <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ayant <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ô <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   cueur <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gloire <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dessus <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   si <= 2
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   lut <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mal <= 1
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   nom <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ta <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   tant <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   cieux <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ſans <= 0: classicisme (71.0/8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ſans > 0: renaissance (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   cieux > 0: renaissance (3.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   tant > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   autres <= 0: renaissance (15.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   autres > 0: classicisme (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ta > 0: renaissance (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   nom > 0: renaissance (7.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   mal > 1: renaissance (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   lut > 0: renaissance (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   si > 2: renaissance (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dessus > 0: renaissance (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   gloire > 0: renaissance (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   cueur > 0: renaissance (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ô > 0: renaissance (9.0/2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ayant > 0: renaissance (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   trouva > 0: classicisme (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   face > 0: renaissance (9.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   part > 0: renaissance (10.0)
+|   |   |   |   |   |   |   |   |   |   |   |   animal > 0: classicisme (6.0)
+|   |   |   |   |   |   |   |   |   |   |   ouvrage > 0
+|   |   |   |   |   |   |   |   |   |   |   |   ta <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   on <= 0: classicisme (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   on > 0: renaissance (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   ta > 0: romantisme (2.0)
+|   |   |   |   |   |   |   |   |   |   lune > 0
+|   |   |   |   |   |   |   |   |   |   |   sur <= 0: renaissance (4.0)
+|   |   |   |   |   |   |   |   |   |   |   sur > 0: romantisme (3.0)
+|   |   |   |   |   |   |   |   |   partout > 0
+|   |   |   |   |   |   |   |   |   |   pour <= 1: classicisme (4.0)
+|   |   |   |   |   |   |   |   |   |   pour > 1: romantisme (3.0)
+|   |   |   |   |   |   |   |   or > 0
+|   |   |   |   |   |   |   |   |   ciel <= 0: renaissance (9.0/1.0)
+|   |   |   |   |   |   |   |   |   ciel > 0: romantisme (2.0)
+|   |   |   |   |   |   |   aime > 0
+|   |   |   |   |   |   |   |   grands <= 0: romantisme (5.0/1.0)
+|   |   |   |   |   |   |   |   grands > 0: classicisme (3.0)
+|   |   |   |   |   |   estre > 0: renaissance (21.0)
+|   |   |   |   |   chaque > 0
+|   |   |   |   |   |   œil <= 0: classicisme (9.0)
+|   |   |   |   |   |   œil > 0: romantisme (3.0)
+|   |   |   |   loup > 0: classicisme (10.0)
+|   |   |   doux > 0
+|   |   |   |   abord <= 0
+|   |   |   |   |   dieux <= 0: romantisme (9.0/2.0)
+|   |   |   |   |   dieux > 0: classicisme (4.0/1.0)
+|   |   |   |   abord > 0: classicisme (3.0)
+|   |   vne > 0: classicisme (20.0)
+|   âme > 0
+|   |   dame <= 0
+|   |   |   point <= 0: romantisme (21.0/1.0)
+|   |   |   point > 0: classicisme (4.0/1.0)
+|   |   dame > 0: renaissance (3.0)
+l' > 6
+|   auteur <= 0
+|   |   au <= 0
+|   |   |   aux <= 0: renaissance (3.0/1.0)
+|   |   |   aux > 0: romantisme (2.0)
+|   |   au > 0: romantisme (101.0/2.0)
+|   auteur > 0
+|   |   airs <= 1: classicisme (4.0)
+|   |   airs > 1: romantisme (2.0)
+
+Number of Leaves  : 	46
+
+Size of the tree : 	91
+
+
+Time taken to build model: 6.17 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         326               72.4444 %
+Incorrectly Classified Instances       124               27.5556 %
+Kappa statistic                          0.5867
+Mean absolute error                      0.1951
+Root mean squared error                  0.4096
+Relative absolute error                 43.9085 %
+Root relative squared error             86.8911 %
+Total Number of Instances              450     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,687    0,173    0,665      0,687    0,675      0,509    0,774     0,626     classicisme
+                 0,700    0,137    0,719      0,700    0,709      0,567    0,817     0,648     renaissance
+                 0,787    0,103    0,792      0,787    0,789      0,684    0,853     0,701     romantisme
+Weighted Avg.    0,724    0,138    0,725      0,724    0,725      0,587    0,815     0,659     
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 103  27  20 |   a = classicisme
+  34 105  11 |   b = renaissance
+  18  14 118 |   c = romantisme
+
