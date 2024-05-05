@@ -14,5 +14,11 @@
 # 04/05/2024
 
 ## Weiqi ZHANG
-- I examined html code of different wikisource pages. The most efficient way is to find pages with '[@class="poem"]' attribute. Each element only contains then only the text of a single poem. Titles are NOT included.
+- I examined html code of different wikisource pages. The most efficient way is to find pages with '[@class="poem"]' attribute. Each element only contains the text of a single poem. Titles are NOT included.
 - An html element often doesn't contain one poem, but a part of it.
+
+# 05/05/2024
+
+## Weiqi ZHANG
+- I think that KNN produces similar results in comparaison to ZeroR because of "curse of dimensionality". We have over 15,000 attributes and only 450 instances. Maybe reducing dimentionalities with help.
+- 
