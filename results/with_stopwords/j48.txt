@@ -1,0 +1,143 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     corpus
+Instances:    450
+Attributes:   15253
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+dans <= 1
+|   âme <= 0
+|   |   vne <= 0
+|   |   |   nôtre <= 0
+|   |   |   |   votre <= 0
+|   |   |   |   |   prince <= 0
+|   |   |   |   |   |   aime <= 0
+|   |   |   |   |   |   |   bras <= 0
+|   |   |   |   |   |   |   |   estre <= 0
+|   |   |   |   |   |   |   |   |   avec <= 0
+|   |   |   |   |   |   |   |   |   |   gloire <= 0
+|   |   |   |   |   |   |   |   |   |   |   ceste <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   cueur <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   chose <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dessus <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sang <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   me <= 2
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   trépas <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ſon <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ciel <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   lut <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ô <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   car <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   puis <= 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   t' <= 0: classicisme (69.0/11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   t' > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ces <= 0: renaissance (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ces > 0: classicisme (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   puis > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dans <= 0: renaissance (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   dans > 0: classicisme (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   car > 0
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on <= 0: renaissance (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   on > 0: classicisme (2.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ô > 0: renaissance (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   lut > 0: renaissance (4.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ciel > 0: renaissance (10.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ſon > 0: renaissance (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   trépas > 0: renaissance (6.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   me > 2: renaissance (11.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   sang > 0: renaissance (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   dessus > 0: renaissance (7.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   chose > 0: renaissance (8.0)
+|   |   |   |   |   |   |   |   |   |   |   |   cueur > 0: renaissance (10.0)
+|   |   |   |   |   |   |   |   |   |   |   ceste > 0: renaissance (11.0)
+|   |   |   |   |   |   |   |   |   |   gloire > 0: renaissance (8.0/1.0)
+|   |   |   |   |   |   |   |   |   avec > 0
+|   |   |   |   |   |   |   |   |   |   ai <= 0
+|   |   |   |   |   |   |   |   |   |   |   géant <= 0: classicisme (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   géant > 0: romantisme (2.0)
+|   |   |   |   |   |   |   |   |   |   ai > 0: renaissance (2.0)
+|   |   |   |   |   |   |   |   estre > 0: renaissance (21.0)
+|   |   |   |   |   |   |   bras > 0
+|   |   |   |   |   |   |   |   flot <= 0: renaissance (6.0)
+|   |   |   |   |   |   |   |   flot > 0: romantisme (2.0)
+|   |   |   |   |   |   aime > 0
+|   |   |   |   |   |   |   sur <= 0: classicisme (5.0/1.0)
+|   |   |   |   |   |   |   sur > 0: romantisme (3.0)
+|   |   |   |   |   prince > 0: classicisme (9.0)
+|   |   |   |   votre > 0
+|   |   |   |   |   nous <= 0
+|   |   |   |   |   |   belle <= 0: classicisme (7.0/1.0)
+|   |   |   |   |   |   belle > 0: renaissance (2.0)
+|   |   |   |   |   nous > 0: romantisme (5.0)
+|   |   |   nôtre > 0: classicisme (9.0)
+|   |   vne > 0: classicisme (19.0)
+|   âme > 0
+|   |   sait <= 0
+|   |   |   dame <= 0: romantisme (14.0/1.0)
+|   |   |   dame > 0: renaissance (3.0)
+|   |   sait > 0: classicisme (2.0)
+dans > 1
+|   style <= 0
+|   |   auteurs <= 0
+|   |   |   fable <= 0
+|   |   |   |   comme <= 0
+|   |   |   |   |   ouvrage <= 0
+|   |   |   |   |   |   aigreur <= 0
+|   |   |   |   |   |   |   chose <= 0
+|   |   |   |   |   |   |   |   courant <= 0
+|   |   |   |   |   |   |   |   |   personnes <= 0
+|   |   |   |   |   |   |   |   |   |   erreur <= 0: romantisme (22.0/1.0)
+|   |   |   |   |   |   |   |   |   |   erreur > 0: classicisme (3.0/1.0)
+|   |   |   |   |   |   |   |   |   personnes > 0: classicisme (2.0)
+|   |   |   |   |   |   |   |   courant > 0: classicisme (2.0)
+|   |   |   |   |   |   |   chose > 0: classicisme (2.0)
+|   |   |   |   |   |   aigreur > 0: classicisme (2.0)
+|   |   |   |   |   ouvrage > 0: classicisme (2.0/1.0)
+|   |   |   |   comme > 0: romantisme (96.0/1.0)
+|   |   |   fable > 0
+|   |   |   |   assis <= 0: classicisme (5.0/1.0)
+|   |   |   |   assis > 0: romantisme (2.0)
+|   |   auteurs > 0: classicisme (7.0/1.0)
+|   style > 0: classicisme (7.0)
+
+Number of Leaves  : 	48
+
+Size of the tree : 	95
+
+
+Time taken to build model: 5.32 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         322               71.5556 %
+Incorrectly Classified Instances       128               28.4444 %
+Kappa statistic                          0.5733
+Mean absolute error                      0.1973
+Root mean squared error                  0.4099
+Relative absolute error                 44.3911 %
+Root relative squared error             86.9497 %
+Total Number of Instances              450     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,667    0,163    0,671      0,667    0,669      0,504    0,795     0,634     classicisme
+                 0,707    0,150    0,702      0,707    0,704      0,556    0,831     0,699     renaissance
+                 0,773    0,113    0,773      0,773    0,773      0,660    0,852     0,738     romantisme
+Weighted Avg.    0,716    0,142    0,715      0,716    0,716      0,573    0,826     0,690     
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+ 100  27  23 |   a = classicisme
+  33 106  11 |   b = renaissance
+  16  18 116 |   c = romantisme
+
