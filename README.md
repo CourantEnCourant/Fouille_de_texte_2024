@@ -1,1 +1,1 @@
-
+# Projet pour le cours Fouille de texte du M1 pluriTAL
